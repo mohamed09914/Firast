@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185197755171",
+    "project_id": "dbmyproject-b46b4",
+    "storage_bucket": "dbmyproject-b46b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185197755171:android:e64eb1f8b77c7f3b7f2a96",
+        "android_client_info": {
+          "package_name": "com.Mohamed.report"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185197755171-beo9immgvkcj0a04rqaupksl3f3ucn18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvMUJABBuMnxvLJjUCiPzZi9Y2MZiQ3ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185197755171-beo9immgvkcj0a04rqaupksl3f3ucn18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
